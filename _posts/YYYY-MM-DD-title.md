@@ -1,2 +1,4 @@
-title: to show the date
-date: 16/09/2023
+---
+title: date of the page
+date: 16-09-2023
+---
